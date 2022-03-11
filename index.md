@@ -1,6 +1,10 @@
 i'm obviously too lazy to actually make a chatting feature.
+
 although there are some things you can do...
+
 [minecraft](/eaglercraft)
+
+[shellshockers](/shellshock)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tyeemiddleschool/tyeemiddleschool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
