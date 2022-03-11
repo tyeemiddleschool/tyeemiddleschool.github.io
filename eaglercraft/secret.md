@@ -1,6 +1,7 @@
 ## Congratulations!
-You just found a secret page. There's nothing here
+`You just found a secret page. There's nothing here`
 [press me to go back]()
+`
   
   
   
@@ -49,8 +50,7 @@ You just found a secret page. There's nothing here
   
   
   
-  
-  
+   
   
 except this list of places on this site:  
   
@@ -74,3 +74,4 @@ tyeemiddleschool.github.io
 |  
 |  
 index.html  
+`
